@@ -1,1 +1,3 @@
-﻿Console.WriteLine("Hello, World!");
+﻿
+
+File.WriteAllText("outText.txt", "Hello, World!");
